@@ -1,1 +1,21 @@
 Netapp data fabric
+NetApp Data Fabric is an effective data management service.it is used in premises like hybrid cloud,multicloud.it is a cloud based service.it offers businesses to store,protect,compute data on cloud effectively.it is owned and maintained by NetApp.it has many licenses.it is most common cloud data service.its features are most effective and in use.
+It has Amazon web services(aws),Microsoft azure and many other cloud services.its main aim is to store data effectively and maintain integrity,mobility of data.it provides various backup services of cloud.
+Project summary
+Project name------------------------NetApp data fabric
+Organization-------------------------NetApp
+License-------------------------------commercial
+Open/proprietary-----------------proprietary
+Brief description-------------------netapp data fabric is owned and maintained by Netapp.it mainly                                                         foces on cloud services.it is effective in cloud data management.
+Features
+1) Data Integrity:  it is most effective in maintaining data.It does not share any data to others.it performs on many platforms.on premises of hybrid.multicloud.
+2) Data mobility: it has many methods in which services are performed.it will include aws,Microsoft azure.
+3) Data security: it has rich data security.all the data is highly encrypted in the cloud.there is no data breach.
+4) Backup service: there is effective backup service in cloud.it is easy to backup,retrieve data from cloud.
+5) Migration: it is much easier to migrate 0n cloud.migrating from aws to azure will be best example.
+6) Data analytics: the most important is it has data analytics to perform many services.the data is well maintained in cloud 
+
+Architecture
+1)	Netapp ONTAP: it is the foundation of netapp data fabric.it is properiteary.
+2)	Backup: the most important thing to do before service.it basically stores and backups all data
+3)	Volume ONTAP: it is the service which performs after ONTAPP.it has services like aws,Microsoft azure.
